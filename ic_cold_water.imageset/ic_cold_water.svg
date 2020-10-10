@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-336,-210)">
+        <g id="ic_cold_water" transform="matrix(1,0,0,1.23077,336,111.538)">
+            <rect x="0" y="80" width="32" height="26" style="fill:none;"/>
+            <g transform="matrix(0.655652,0,0,0.704167,-464.265,12.0208)">
+                <path d="M732.5,100C734.635,108.771 720,110.809 720,120.543C720,125.763 725.601,130 732.5,130C739.399,130 745,125.763 745,120.543C745,110.809 737.837,104.734 732.5,100Z" style="fill:rgb(51,51,51);"/>
+            </g>
+        </g>
+    </g>
+</svg>

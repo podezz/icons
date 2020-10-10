@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-42,-252)">
+        <g id="ic_electricity_sum" transform="matrix(1,0,0,1.23077,42,153.538)">
+            <rect x="0" y="80" width="32" height="26" style="fill:none;"/>
+            <g transform="matrix(1.56434,0,0,1.27103,-202.36,53.3734)">
+                <g transform="matrix(0.481631,0,0,0.481631,-1.53237,7.37075)">
+                    <path d="M289.704,35.769C290.379,34.586 291.638,33.856 293,33.856C294.362,33.856 295.621,34.586 296.296,35.769C300.022,42.289 306.049,52.836 309.754,59.32C310.426,60.495 310.421,61.938 309.741,63.109C309.062,64.28 307.811,65 306.458,65C299.027,65 286.973,65 279.542,65C278.189,65 276.938,64.28 276.259,63.109C275.579,61.938 275.574,60.495 276.246,59.32C279.951,52.836 285.978,42.289 289.704,35.769Z" style="fill:white;stroke:black;stroke-width:1.45px;"/>
+                </g>
+                <g transform="matrix(0.248921,0,0,0.248921,67.496,20.5473)">
+                    <path d="M291.403,55.393L292.391,45.835L285.173,49.58C284.213,50.017 283.09,49.884 282.258,49.236C281.426,48.587 281.023,47.531 281.211,46.493L284.065,24.284L291.935,25.716L287.998,42.387L294.088,39.993C294.826,39.658 295.688,39.754 296.334,40.244C296.979,40.735 297.303,41.54 297.178,42.34L294.34,55.853L298.368,56.483L291.232,66.5L287.5,54.782L291.403,55.393Z" style="fill:rgb(246,80,61);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
